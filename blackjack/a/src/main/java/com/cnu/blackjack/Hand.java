@@ -1,5 +1,5 @@
 package com.cnu.blackjack;
-
+//Jahyeon Jaehun Hyemin Ajeong 2
 import java.util.ArrayList;
 import java.util.List;
 
