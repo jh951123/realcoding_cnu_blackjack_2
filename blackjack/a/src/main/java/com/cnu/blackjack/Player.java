@@ -10,7 +10,7 @@ public class Player {
     private int currentBet;
     private Hand hand;
 
-    public Player(int seedMoney, Hand hand) {
+    public Player(int seedMoney,Hand hand) {
         this.balance = seedMoney;
         this.hand = hand;
     }
